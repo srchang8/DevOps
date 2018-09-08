@@ -20,10 +20,10 @@
         </servlet-class>
         <init-param>
             <param-name>javax.ws.rs.Application</param-name>
-            <param-value>com.stephenWS.app.HelloApplication</param-value>
+            <param-value>com.stephenWS.com.stephenWS.app.HelloApplication</param-value>
         </init-param>
     </servlet>
-    
+
     <servlet-mapping>
         <servlet-name>resteasy-servlet</servlet-name>
         <!--Prefix for endpoint-->
