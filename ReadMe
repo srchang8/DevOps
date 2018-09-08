@@ -1,4 +1,7 @@
 Main Objective
+	Application Development
+		Restful Webapp
+		Games
 	Increase developmemnt stability
 	Speed up development
 Task
@@ -6,10 +9,6 @@ Task
 		Building
 		testing
 		Deploying
-
-Applications
-	Restful Webapp
-	Games
 
 Tools
 	Jenkins
