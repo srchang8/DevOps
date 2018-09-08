@@ -43,7 +43,7 @@
 
     </dependencies>
 
-    <!--Indicate Web Application Archives-->
-    <packaing>war</packaing>
+    <!--Indicate Web WSApplication Archives-->
+    <packaging>war</packaging>
 
 </project>

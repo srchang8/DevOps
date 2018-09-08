@@ -1,14 +1,15 @@
 package com.stephenWS.app;
-import com.stephenWS.rest.RestService;
+import com.stephenWS.rest.RestService;//import test service we created
 import javax.ws.rs.core.Application;
 import java.util.HashSet;
 import java.util.Set;
 
 
-public class Application {
+public class WSApplication extends Application {
 
     private Set<Object> singletons = new HashSet<Object>();
-    public Application(){
+
+    public WSApplication(){
         //Register Service
         singletons.add(new RestService());
     }
@@ -18,5 +19,5 @@ public class Application {
         return singletons;
     }
 
-
 }
+
