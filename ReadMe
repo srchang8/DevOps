@@ -1,0 +1,19 @@
+Main Objective
+	Increase developmemnt stability
+	Speed up development
+Task
+	Automate
+		Building
+		testing
+		Deploying
+
+Applications
+	Restful Webapp
+	Games
+
+Tools
+	Jenkins
+	Tomcat
+	Jboss
+	JUnit
+	AIM
