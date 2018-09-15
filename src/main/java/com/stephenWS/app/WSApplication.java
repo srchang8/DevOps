@@ -18,6 +18,5 @@ public class WSApplication extends Application {
     public Set<Object> getSingletons(){
         return singletons;
     }
-
 }
 
