@@ -8,6 +8,8 @@
     <artifactId>RESTful Web service</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <!--Indicate Web WSApplication Archives-->
+    <packaging>war</packaging>
 
     <repositories>
         <repository>
@@ -42,8 +44,5 @@
         </dependency>
 
     </dependencies>
-
-    <!--Indicate Web WSApplication Archives-->
-    <packaging>war</packaging>
 
 </project>

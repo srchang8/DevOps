@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="RESTful Web service" />
+        <module name="spring-core" />
         <module name="springcore" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="RESTful Web service" target="1.5" />
+      <module name="spring-core" target="1.5" />
       <module name="springcore" target="1.5" />
     </bytecodeTargetLevel>
   </component>

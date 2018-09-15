@@ -5,9 +5,19 @@ import javax.ws.rs.core.Response;
 
 @Path("/")
 public class RestService {
+
+
     @GET // This annotation indicates GET request
     @Path("/test")
     public Response hello() {
+
+        return Response.status(200).entity("Rest Service is working.").build();
+    }
+
+    @GET
+    @Path("/Rest")
+    public Response rest() {
+
         return Response.status(200).entity("Rest Service is working.").build();
     }
 
