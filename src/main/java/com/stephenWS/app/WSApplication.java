@@ -1,4 +1,6 @@
 package com.stephenWS.app;
+
+/*
 import com.stephenWS.rest.RestService;//import test service we created
 import javax.ws.rs.core.Application;
 import java.util.HashSet;
@@ -21,3 +23,4 @@ public class WSApplication extends Application {
 
 }
 
+*/
