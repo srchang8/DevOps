@@ -42,7 +42,12 @@ public class IndexController {
         return "user";
     }
 
+    @RequestMapping(value = "/game", method = RequestMethod.GET)
+    public String game(Locale locale){
+        System.out.println("Gaming Page Requested , locale = " + locale);
 
+        return "game";
+    }
 
 }
 
