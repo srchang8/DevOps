@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RESTful Web service.iml" filepath="$PROJECT_DIR$/RESTful Web service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-core.iml" filepath="$PROJECT_DIR$/spring-core.iml" />
     </modules>
   </component>
 </project>
